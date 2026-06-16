@@ -1,13 +1,5 @@
-# Terraform Live Infrastructure Project
+# InfraForge
 
-Multi Environment Infrastructure Provisioning using:
+## Architecture Diagram
 
-- Terraform
-- AWS
-- HashiCorp Vault
-- GitHub Actions
-
-Environments:
-- Dev
-- Stage
-- Prod
+![InfraForge Architecture](images/architecture.png(Infra).png)
